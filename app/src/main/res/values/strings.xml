@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Extension erp</string>
+    <string name="enter_email">Enter the email address</string>
+    <string name="error_email">*Please enter the valid email address.</string>
+    <string name="login"><b>Login to Extension ERP</b></string>
+    <string name="enter_password">Enter the password</string>
+    <string name="error_password">*Please enter the valid password.</string>
+    <string name="btn_login">Login</string>
+    <string name="dont">"Don't have an account ?"</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="email">Email Address</string>
+    <string name="name">Name</string>
+    <string name="phone">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create">Sign Up</string>
+    <string name="have_account">Have an account?</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="error_phone">*Please enter the valid mobile number.</string>
+    <string name="error_cnf">*Please retype the password.</string>
+    <string name="create_account">Sign Up to Extension ERP</string>
+    <string name="extension">Extension Erp</string>
+    <string name="logout">Logout</string>
+    <string name="add_product"><u>Add Products</u></string>
+    <string name="add_sale"><u>Add Sales</u></string>
+    <string name="sales_prediction"><u>Sales Prediction</u></string>
+    <string name="product_id">Product ID :</string>
+    <string name="product_name">Product Name :</string>
+    <string name="category">Category :</string>
+    <string name="quantity">Quantity :</string>
+    <string name="amount">Amount :</string>
+    <string name="submit">Submit</string>
+    <string name="stock">Stocks Available :</string>
+
+</resources>

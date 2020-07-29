@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962523612984",
+    "firebase_url": "https://extension-erp.firebaseio.com",
+    "project_id": "extension-erp",
+    "storage_bucket": "extension-erp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962523612984:android:371b9f0fa896c3b0ede3cd",
+        "android_client_info": {
+          "package_name": "com.www.extensionerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962523612984-kku6oniftng69ia8rso30doa3qkropad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAXcN7KR1nShgtyJ1MQOBq3wgWQ49F9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962523612984-kku6oniftng69ia8rso30doa3qkropad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
